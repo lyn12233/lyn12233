@@ -14,3 +14,5 @@ whoami: 2023302053
 - [KFXWuPA0TJxQ9C](https://github.com/lyn12233/KFXWuPA0TJxQ9C)
   school course notes
   
+- [2048](https://github.com/lyn12233/2048forshitcourse)
+  game 2048 on terminal, homework
