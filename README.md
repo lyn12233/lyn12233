@@ -6,7 +6,7 @@ I'm LTQ, currently an undergraduate in the department of electronics and informa
 ## my repositories
 
 - primary works:
-  - [cmem](https://github.com/lyn12233/cmem): c infrastructures. trying to use c in a c++ style.
+  - [cmem](https://github.com/lyn12233/cmem): exploring data structures, c++ styled c, list/vector/dict/variant types, json parser, posix/win32api adaption,...
   - [cum20240901](https://github.com/lyn12233/cum20240901): 2024-CUMCM solution to problem B (CUMCM: china undergraduate math contest for modeling)
   - [typst_utils](https://gitee.com/ltq12233/typst_utils): a typst style setting aligning to graduatoin paper format
 - further projects:
